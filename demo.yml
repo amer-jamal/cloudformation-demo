@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: '2010-09-09'
-Description: A test stack for demonstrating Cloudformation
+Description: A test stack for demonstrating Cloudformation testing
 Parameters:
   Subnet:
     Description: Subnet in which to place the resources
